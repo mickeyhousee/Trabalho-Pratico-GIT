@@ -24,9 +24,12 @@ De seguida fiz o push para o github para a branch "main"
 ![alt text](<assets/Grilo/git merge.png>)
 
 ### Rebase
+Entrei na branch Grilo fiz as alterações ao README.md.
 
+Primeiro fiz um commit onde alterei o README.md, depois voltei a branch main e fiz o rebase.
+Basicamente o rebase server para fazer com que os commits "pareçam que venham da branch main" e não da branch Grilo
 
-
+![alt text](assets/Grilo/rebase.png)
 
 ### Cherry-pick e Tags
 
