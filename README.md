@@ -45,6 +45,8 @@ De seguida criei uma branch, nomeadamente "branch_abreu" onde vou começar a tra
 
 ![alt text](assets/Abreu/img_branch_abreu.png)
 
+## Antunes
 
+Bom dia, sou o Antunes. Comecei por fazer fork, de seguida criei um ficheiro python "hello world" com erros para corrigir dentro da minha branch.
 
 
