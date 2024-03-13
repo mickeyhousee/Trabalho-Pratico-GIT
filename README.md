@@ -60,3 +60,7 @@ De seguida corrigi o "script_abreu.py".
 E enviei as informações de novo a partir do comando git push.
 
 ![alt text](assets/Abreu/img_push_abreu.png)
+
+Fiz o primeiro commit.
+
+![alt text](assets/Abreu/git_commit1.png)
