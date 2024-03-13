@@ -10,7 +10,7 @@ def calcular_area_triangulo(base, altura):
     A área do triângulo (float).
   """
 
-  area = (base * altura) / 3
+  area = (base * altura) / 2
   return area
 
 # Exemplo de uso
