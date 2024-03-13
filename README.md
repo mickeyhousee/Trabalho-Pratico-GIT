@@ -55,6 +55,6 @@ De seguida criei uma branch, nomeadamente "branch_abreu" onde vou começar a tra
 
 ## Antunes
 
-Bom dia, sou o Antunes. Comecei por fazer fork, de seguida criei um ficheiro python "hello world" com erros para corrigir dentro da minha branch.
+Bom dia, sou o Antunes. Comecei por fazer fork, de seguida criei um ficheiro python "script_antunes" com erros para corrigir dentro da minha branch.
 
 
