@@ -23,6 +23,11 @@ De seguida fiz o push para o github para a branch "main"
 
 ![alt text](<assets/Grilo/git merge.png>)
 
+### Rebase
+
+
+
+
 ### Cherry-pick e Tags
 
 Primeiro fiz um commit onde alterei o README.md e depois fiz outro commit onde corrigi o bug do "script_grilo.py"
