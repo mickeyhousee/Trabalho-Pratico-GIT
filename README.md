@@ -45,6 +45,18 @@ De seguida criei uma branch, nomeadamente "branch_abreu" onde vou começar a tra
 
 ![alt text](assets/Abreu/img_branch_abreu.png)
 
+Dei git merge para juntar a branch "abreu_branch" para o main".
 
+![alt text](assets/Abreu/img_merge_abreu.png)
 
+Dei push para enviar as informações para o nosso github.
 
+![alt text](assets/Abreu/img_push_abreu.png)
+
+De seguida corrigi o "script_abreu.py".
+
+![alt text](assets/Abreu/script_corrigido.png)
+
+E enviei as informações de novo a partir do comando git push.
+
+![alt text](assets/Abreu/img_push_abreu.png)
