@@ -20,3 +20,17 @@ Depois fiz git commit de todas as alterações e irei realizar o git merge para 
 De seguida fiz o push para o github para a branch "main" 
 
 ![alt text](assets/Grilo/git_log.png)
+
+![alt text](<assets/Grilo/git merge.png>)
+
+### Cherry-pick e Tags
+
+Primeiro fiz um commit onde alterei o README.md e depois fiz outro commit onde corrigi o bug do "script_grilo.py"
+
+Adicionei tambem uma tag ao commit onde corri o bug onde meti "tag 1.0"
+
+![alt text](assets/Grilo/tag.png)
+
+Depois voltei para a branch main e fiz cherry-pick apenas do commit "Bug fix in script_grilo.py" 
+
+![alt text](<assets/Grilo/git cherrypick.png>)
