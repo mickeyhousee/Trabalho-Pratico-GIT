@@ -34,3 +34,17 @@ Adicionei tambem uma tag ao commit onde corri o bug onde meti "tag 1.0"
 Depois voltei para a branch main e fiz cherry-pick apenas do commit "Bug fix in script_grilo.py" 
 
 ![alt text](<assets/Grilo/git cherrypick.png>)
+
+## Abreu
+
+Inicialmente criei um script em python em que o erro se situa na linha 6 em que o numero2 está registado como 0, sendo impossivel a divisão.
+
+![alt text](assets/Abreu/img_script_abreu.png)
+
+De seguida criei uma branch, nomeadamente "branch_abreu" onde vou começar a trabalhar.
+
+![alt text](assets/Abreu/img_branch_abreu.png)
+
+
+
+
