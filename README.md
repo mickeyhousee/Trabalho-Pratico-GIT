@@ -86,6 +86,11 @@ Para realizar o Rebase usei o comando "git rebase abreu_branch" para fazer o rab
 
 ![alt text](assets/Abreu/rebase.png)
 
+Dei push para o Git Hub
+
+![alt text](assets/Abreu/push.png)
+
+
 
 
 
