@@ -1,8 +1,26 @@
 # Trabalho-Pratico-Git
 Trabalho final prático de GIT
 
+
 # Indice
+- [Objetivos](#Objetivos)
 - [Grilo](#Grilo)
+- [Abreu](#Abreu)
+
+# Objetivos
+Operações essenciais do Git/GitHub:
+
+- Clone
+- Branch
+- Commit
+- Merge
+- Rebase
+- Cherry-pick
+- Tags
+- Pulls
+- Pull requests
+- Resolução de conflitos
+
 ## Grilo
 
 Incialmente Configurei o token para o projeto.
