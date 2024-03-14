@@ -78,6 +78,10 @@ E fiz a cherry-pick
 ![alt text](assets/Abreu/git_cherry_pick.png)
 
 
+## Antunes
+
+Bom dia, sou o Antunes. Comecei por fazer fork, de seguida criei um ficheiro python "script_antunes" com erros para corrigir dentro da minha branch.
+
 
 
 ## Antunes
