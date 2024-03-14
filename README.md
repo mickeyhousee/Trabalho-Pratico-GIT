@@ -63,6 +63,20 @@ Vou criar este texto de modo a mudar o conteúdo do ficheiro e fazer o primeiro 
 
 Śegundo commit
 
+![alt text](assets/Abreu/segundo_commit.png)
+
+De seguida tive um erro em que tive que mudar para a branch "main" para fazer o cherry-pick
+
+![alt text](assets/Abreu/mudar_main.png)
+
+Mudei então para a main
+
+![alt text](assets/Abreu/main.png)
+
+E fiz a cherry-pick
+
+![alt text](assets/Abreu/git_cherry_pick.png)
+
 
 
 
