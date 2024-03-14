@@ -77,6 +77,15 @@ E fiz a cherry-pick
 
 ![alt text](assets/Abreu/git_cherry_pick.png)
 
+Fiz git status
+
+![alt text](assets/Abreu/git_status.png)
+
+
+Para realizar o Rebase usei o comando "git rebase abreu_branch" para fazer o rabase à minha branch
+
+![alt text](assets/Abreu/rebase.png)
+
 
 
 
