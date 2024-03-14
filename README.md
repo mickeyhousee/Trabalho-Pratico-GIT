@@ -90,14 +90,6 @@ Dei push para o Git Hub
 
 ![alt text](assets/Abreu/push.png)
 
-
-
-
-
-## Antunes
-
-Bom dia, sou o Antunes. Comecei por fazer fork, de seguida criei um ficheiro python "hello world" com erros para corrigir dentro da minha branch.
-
 Dei push para enviar as informações para o nosso github.
 
 ![alt text](assets/Abreu/img_push_abreu.png)
