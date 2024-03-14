@@ -57,6 +57,10 @@ Dei git merge para juntar a branch "abreu_branch" para o main".
 
 ![alt text](assets/Abreu/img_merge_abreu.png)
 
+Corrigi o script 
+
+![alt text](assets/Abreu/script_corrigido.png)
+
 Vou criar este texto de modo a mudar o conteúdo do ficheiro e fazer o primeiro commit para dar inicio ao cherry pick
 
 ![alt text](assets/Abreu/primeiro_commit.png)
@@ -81,12 +85,7 @@ Fiz git status
 
 ![alt text](assets/Abreu/git_status.png)
 
-## Antunes
-
-Bom dia, sou o Antunes. Comecei por fazer fork, de seguida criei um ficheiro python "script_antunes" com erros para corrigir dentro da minha branch.
-
-
-Para realizar o Rebase usei o comando "git rebase abreu_branch" para fazer o rabase à minha branch
+Git rebase
 
 ![alt text](assets/Abreu/rebase.png)
 
@@ -98,14 +97,7 @@ Dei push para enviar as informações para o nosso github.
 
 ![alt text](assets/Abreu/img_push_abreu.png)
 
-De seguida corrigi o "script_abreu.py".
-
-![alt text](assets/Abreu/script_corrigido.png)
-
 E enviei as informações de novo a partir do comando git push.
 
 ![alt text](assets/Abreu/img_push_abreu.png)
 
-Fiz o primeiro commit.
-
-![alt text](assets/Abreu/git_commit1.png)
