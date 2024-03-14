@@ -23,6 +23,14 @@ De seguida fiz o push para o github para a branch "main"
 
 ![alt text](<assets/Grilo/git merge.png>)
 
+### Rebase
+Entrei na branch Grilo fiz as alterações ao README.md.
+
+Primeiro fiz um commit onde alterei o README.md, depois voltei a branch main e fiz o rebase.
+Basicamente o rebase server para fazer com que os commits "pareçam que venham da branch main" e não da branch Grilo
+
+![alt text](assets/Grilo/rebase.png)
+
 ### Cherry-pick e Tags
 
 Primeiro fiz um commit onde alterei o README.md e depois fiz outro commit onde corrigi o bug do "script_grilo.py"
@@ -48,6 +56,12 @@ De seguida criei uma branch, nomeadamente "branch_abreu" onde vou começar a tra
 Dei git merge para juntar a branch "abreu_branch" para o main".
 
 ![alt text](assets/Abreu/img_merge_abreu.png)
+
+Vou criar este texto de modo a mudar o conteúdo do ficheiro e fazer o primeiro commit para dar inicio ao cherry pick
+
+## Antunes
+
+Bom dia, sou o Antunes. Comecei por fazer fork, de seguida criei um ficheiro python "hello world" com erros para corrigir dentro da minha branch.
 
 Dei push para enviar as informações para o nosso github.
 
