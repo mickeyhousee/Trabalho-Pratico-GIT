@@ -59,6 +59,13 @@ Dei git merge para juntar a branch "abreu_branch" para o main".
 
 Vou criar este texto de modo a mudar o conteúdo do ficheiro e fazer o primeiro commit para dar inicio ao cherry pick
 
+![alt text](assets/Abreu/primeiro_commit.png)
+
+Śegundo commit
+
+
+
+
 ## Antunes
 
 Bom dia, sou o Antunes. Comecei por fazer fork, de seguida criei um ficheiro python "hello world" com erros para corrigir dentro da minha branch.
