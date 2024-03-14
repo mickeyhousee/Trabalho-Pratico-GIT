@@ -77,16 +77,22 @@ E fiz a cherry-pick
 
 ![alt text](assets/Abreu/git_cherry_pick.png)
 
+Fiz git status
+
+![alt text](assets/Abreu/git_status.png)
 
 ## Antunes
 
 Bom dia, sou o Antunes. Comecei por fazer fork, de seguida criei um ficheiro python "script_antunes" com erros para corrigir dentro da minha branch.
 
 
+Para realizar o Rebase usei o comando "git rebase abreu_branch" para fazer o rabase à minha branch
 
-## Antunes
+![alt text](assets/Abreu/rebase.png)
 
-Bom dia, sou o Antunes. Comecei por fazer fork, de seguida criei um ficheiro python "hello world" com erros para corrigir dentro da minha branch.
+Dei push para o Git Hub
+
+![alt text](assets/Abreu/push.png)
 
 Dei push para enviar as informações para o nosso github.
 
