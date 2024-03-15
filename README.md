@@ -121,3 +121,54 @@ E enviei as informações de novo a partir do comando git push.
 
 ![alt text](assets/Abreu/img_push_abreu.png)
 
+## Antunes
+
+Inicialmente comecei por fazer GIT Clone, onde de seguida dei fork no Github. Daqui criei o meu repositório onde introduzi um script com erros "script_antunes"
+
+![Screenshot at 2024-03-15 09-46-25](https://github.com/andremantunes/Trabalho-Pratico-Git/assets/144716954/727560e7-5aa4-418c-a4ed-3a3deb713576)
+
+![Screenshot at 2024-03-15 09-38-21](https://github.com/andremantunes/Trabalho-Pratico-Git/assets/144716954/51a9af0f-6d37-402b-9c33-9b8f11dc737f)
+
+![Screenshot at 2024-03-15 09-38-57](https://github.com/andremantunes/Trabalho-Pratico-Git/assets/144716954/a26f7f8d-8d24-435e-8160-4a4d475b0f9f)
+
+De seguida corrigi o script "script_antunes", adicionei o script, seguido de um commit e de um rebase
+
+![Screenshot at 2024-03-15 09-39-36](https://github.com/andremantunes/Trabalho-Pratico-Git/assets/144716954/86768049-c94e-45c7-bcc3-5cea78a20e77)
+
+![Screenshot at 2024-03-15 09-40-03](https://github.com/andremantunes/Trabalho-Pratico-Git/assets/144716954/aa5dd674-8057-4c34-bb96-c16af9af2497)
+
+Agora vou fazer um cherry-pick, para isto editei o script_antunes duas vezes onde dei dois commits, o "first" e o "second"
+
+![Screenshot at 2024-03-15 09-40-19](https://github.com/andremantunes/Trabalho-Pratico-Git/assets/144716954/0ce670a1-c42d-443e-8d61-bf972caf9bdd)
+
+![Screenshot at 2024-03-15 09-40-42](https://github.com/andremantunes/Trabalho-Pratico-Git/assets/144716954/ccae3c19-8ecc-4f25-b6ca-3f7353a35652)
+
+![Screenshot at 2024-03-15 09-41-08](https://github.com/andremantunes/Trabalho-Pratico-Git/assets/144716954/c3c23a35-5687-452f-93ea-b157bc3426dd)
+
+Efetuei agora o cherry-pick onde vou tentar puxar o primeiro "first"
+
+![Screenshot at 2024-03-15 09-41-24](https://github.com/andremantunes/Trabalho-Pratico-Git/assets/144716954/07fc25b8-ab2b-4011-9790-80b0aa344da7)
+
+![Screenshot at 2024-03-15 09-41-40](https://github.com/andremantunes/Trabalho-Pratico-Git/assets/144716954/76dfb075-062e-4a34-956b-4832b8466d17)
+
+De seguida adicionei tags, e dei push às mesmas
+
+![Screenshot at 2024-03-15 09-41-53](https://github.com/andremantunes/Trabalho-Pratico-Git/assets/144716954/cfcb9dad-0143-415a-aa8c-1978483b8df6)
+
+Para finalizar corrigi um conflito que me apareceu neste processo
+
+![Screenshot at 2024-03-15 09-42-05](https://github.com/andremantunes/Trabalho-Pratico-Git/assets/144716954/e4695084-a331-4828-a92b-ca6155e913a6)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
