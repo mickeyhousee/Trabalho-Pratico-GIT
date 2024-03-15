@@ -6,6 +6,7 @@ Trabalho final prático de GIT
 - [Objetivos](#Objetivos)
 - [Grilo](#Grilo)
 - [Abreu](#Abreu)
+- [Antunes](#Antunes)
 
 # Objetivos
 Operações essenciais do Git/GitHub:
